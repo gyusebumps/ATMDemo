@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.demo.dao.CardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-09-01T14:09:04" hostname="Gyusebumpsui-MacBookAir.local" time="0.005">
+  <properties/>
+  <testcase name="getPIN()" classname="org.demo.dao.CardTest" time="0.0"/>
+  <testcase name="setPIN()" classname="org.demo.dao.CardTest" time="0.001"/>
+  <testcase name="getName()" classname="org.demo.dao.CardTest" time="0.0"/>
+  <testcase name="getId()" classname="org.demo.dao.CardTest" time="0.001"/>
+  <testcase name="getCardNumber()" classname="org.demo.dao.CardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
