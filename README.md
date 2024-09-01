@@ -17,4 +17,4 @@ ATM 시스템
 2. Main.class 에서 Run 버튼을 눌려주세요
 
 # Test Coverage
-![img.png](img.png)
+<img width="1019" alt="스크린샷 2024-09-01 오후 11 17 01" src="https://github.com/user-attachments/assets/114634ec-3dd9-4494-8202-cba33d7cc697">
